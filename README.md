@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tanveer132
-- 👀 I’m interested in ...Myself
-- 🌱 I’m currently learning ...to understand me
+- 👀 I’m interested in ...Me
+- 🌱 I’m currently learning ...to understand myself
 - 💞️ I’m looking to collaborate on ...my mood
 - 📫 How to reach me ...when i wander
 
