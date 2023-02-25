@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tanveer132
 - 👀 I’m interested in ...data
 - 🌱 I’m currently learning ...To teach machines
-- 💞️ I’m looking to collaborate on ...data science
+- 💞️ I’m looking for collaboration on ...data science
 - 📫 How to reach me ...tanveershikalgar55gmail.com
 
 <!---
